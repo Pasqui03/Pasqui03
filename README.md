@@ -8,6 +8,7 @@
   - Java
   - C#
   - JS
+    - also Framework (React)
   - SQL
   - Python
   - PHP
