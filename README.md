@@ -2,6 +2,7 @@
 
 ### What do I do?
 Before I did a full-time IT apprenticeship for 4 years at SAMT in Ticino, Switzerland.
+
 I’m currently studying for Computer Engineering (Bachelor) at university SUPSI DTI in Ticino, Switzerland (First year :D).
 
 ### My knowledge:
